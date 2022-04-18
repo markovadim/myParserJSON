@@ -1,0 +1,32 @@
+{
+  "name": "Vadim",
+  "age": "28",
+  "email": "markovadim@gmail.com",
+  "notes": [
+	"5", 
+	"5", 
+	"5", 
+	"5"
+  ],
+  "prices": [
+	"3.3", 
+	"4.4", 
+	"9.9"
+  ],
+  "clients": [
+	"Yulia", 
+	"Nikita"
+  ],
+  "transients": [
+	null,
+  	null
+  ],
+  "aTransient": {
+    "count": "23232",
+    "parent": "Parent",
+	"lst": [
+	"132",
+	"25"
+  	]
+  }
+}
