@@ -22,11 +22,17 @@
   	null
   ],
   "aTransient": {
-    "count": "23232",
-    "parent": "Parent",
+    "count": "777",
+    "parent": "Unknown",
 	"lst": [
 	"132",
 	"25"
-  	]
+  	],
+	"map": {
+	"1":"One",
+	"2":"Two",
+	"3":"Three"
+	}
   }
+
 }
